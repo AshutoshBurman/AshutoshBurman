@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on **FullStack project E-commerce project**
+- 🔭 I’m currently working on **FullStack E-commerce website**
 
 - 🌱 I’m currently learning **Banckend node express**
 
